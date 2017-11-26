@@ -1,2 +1,2 @@
-echo " hello this the test script1"
+echo " hello this is a test script1"
 
